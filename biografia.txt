@@ -2,3 +2,7 @@ hola soy carlos tapullima
 
 me gusta aprender programacion 
 me gusta el pollo
+//comit 2
+e32c22a5b59b90bbd8dda6f23b99d574ad7f9280
+//comit 1
+e5e657716ed1974e1f34a28b50f154b8a3c833a4
